@@ -35,11 +35,14 @@ The data is organized into a Python list of dictionaries, each representing an e
 
 The [tiktoken](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb) library counts tokens using the GPT-3.5-turbo model. The code calculates token counts for each entry's content, adding a "token" column.
 
-## **Installation**
+#### **How To Install**
 
 ```bash
 pip install tiktoken
 ```
+
+#### **How To Test**
+Download the **`tokenizeDBandConvertToCSV.ipynb`** file on this repository and run it on Jupyter Notebook or Google Colab.
 
 ## **Tokenization**
 
@@ -92,6 +95,23 @@ While acknowledging the associated cost, the advantages of OpenAI's 'Curie' mode
 To illustrate the transition, the initial code for the glove-wiki-gigaword-100 model is included in this repository. The chatbot worked perfectly. However, the definitive and final code, utilizing OpenAI's 'Curie' model, is housed in the [Studentia-Chatbot repository](https://github.com/Studentia/Studentia-Chatbot).
 
 ### **Important Source Code Segments & How It Works**
+
+#### **How To Install**
+
+Install the required libraries bu running the following code either on your local terminal or a code editor like Jupyter Notebook or Google Colab.
+
+```bash
+%pip install transformers
+%pip install gensim
+%pip install openai
+%pip install pandas
+%pip install numpy
+%pip install typing
+```
+
+#### **How To Test**
+
+Download the **`Studentia-Chatbot-Test-1.ipynb`** file on this repository and run it on Jupyter Notebook or Google Colab.
 
 1. **Embedding Model Initialization**
     
