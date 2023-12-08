@@ -17,7 +17,6 @@ In this repository, you can find how we prepare the data and the various models 
     - Solution: OpenAI's Curie Embedding Model
     - Key Source Code Sections
     - Other Models We Tried
-3. Notes
 
 # **1. Database Preprocessing**
 
@@ -135,7 +134,3 @@ Download the **`Studentia-Chatbot-Test-1.ipynb`** file on this repository and ru
 ## Other Models We Tried
 
 We also tried other models like global-wiki-gigaword-300 and bert-base-uncased for the embedding process. We did not include the files for these other models as they look exactly the same as the current one only with a few changes to load the model to the system. Everything else remains almost similar.
-
-## 3. **Notes**
-
-This repository serves as a historical record. For the latest and final code, refer to the [Studentia-Chatbot repository](https://github.com/Studentia/Studentia-Chatbot).
