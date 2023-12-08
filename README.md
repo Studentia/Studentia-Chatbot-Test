@@ -134,3 +134,9 @@ Download the **`Studentia-Chatbot-Test-1.ipynb`** file on this repository and ru
 ## Other Models We Tried
 
 We also tried other models like global-wiki-gigaword-300 and bert-base-uncased for the embedding process. We did not include the files for these other models as they look exactly the same as the current one only with a few changes to load the model to the system. Everything else remains almost similar.
+
+## __📓 Team 📓__
+> Team 11 Cognify <br/>
+> 🗓️ 2023.03.27 ~ 2023.12
+
+|[김영애](https://github.com/Y1K5)|[Daniela Fajardo](https://github.com/danielabfajardo)|[Nafisa](https://github.com/NafisaOtakhanova)|
