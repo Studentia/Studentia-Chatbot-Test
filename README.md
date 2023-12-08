@@ -1,6 +1,7 @@
 ![Studentia - Read.ME Title](images/studentia-banner.png)
 # **Chatbot Development History**
-This repository is not about the final Chatbot that we used in our app. For the information about the final Chatbot: [Studentia-Chatbot repository](https://github.com/Studentia/Studentia-Chatbot) <br/>
+This repository is not about the final Chatbot that we used in our app.<br/> 
+For the information about the final Chatbot: [Studentia-Chatbot repository](https://github.com/Studentia/Studentia-Chatbot) <br/>
 In this repository, you can find how we prepare the data and the various models we experimented with.
 
 ## **Table of Contents**
