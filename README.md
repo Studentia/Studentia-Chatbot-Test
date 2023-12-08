@@ -1,3 +1,4 @@
+![Studentia - Read.ME Title](images/studentia-banner.png)
 # **Chatbot Development History**
 
 ## **Table of Contents**
@@ -56,7 +57,7 @@ def count_tokens(text: str) -> int:
 3. We store the new database in a CSV file (**`ewha_database.csv`**).
 4. The database is now ready for embedding and chatbot integration!
 
-(![Database Structure Result - Sample Image](images/Screenshot%202023-12-08%20at%202.51.37%20PM.png))
+![Database Structure Result - Sample Image](images/Screenshot%202023-12-08%20at%202.51.37%20PM.png)
 
 ---
 
