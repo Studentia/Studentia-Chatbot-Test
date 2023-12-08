@@ -56,7 +56,7 @@ def count_tokens(text: str) -> int:
 3. We store the new database in a CSV file (**`ewha_database.csv`**).
 4. The database is now ready for embedding and chatbot integration!
 
-(![Database Structure Result - Sample Image](images/Screenshot%202023-12-08%20at%202.51.12%20PM.png))
+(![Database Structure Result - Sample Image](images/Screenshot%202023-12-08%20at%202.51.37%20PM.png))
 
 ---
 
@@ -74,7 +74,7 @@ The 'glove-wiki-gigaword-100' model, while initially considered, proved unsuitab
 - **File Size Limitations:** Even if we wanted to uploaded it to our server, the model's large file size exceeded the upload limitations of Firebase Functions.
 - **Limited Efficiency:** Despite being free, the model had limitations, such as a fixed 100 embedding columns and/or floating-point vector embedding size.
     
-    ![100 embedding float-point numbers limit - Sample Image](images/Screenshot%202023-12-08%20at%202.51.37%20PM.png)
+    ![100 embedding float-point numbers limit - Sample Image](images/Screenshot%202023-12-08%20at%202.51.12%20PM.png)
     
 
 ## **Solution: OpenAI's Curie Embedding Model**
