@@ -62,7 +62,7 @@ def count_tokens(text: str) -> int:
 
 # **2. Models We Tried & Which One We Chose**
 
-````````````````````````Studentia-Chatbot-Test-1**.ipynb**`
+**`Studentia-Chatbot-Test-1.ipynb`**
 
 Now, we present our documentation of the trial-and-error process, various tests, and model iterations conducted during the development of our closed-domain Q&A chatbot. The initial attempt, labeled **CHATBOT TEST #1**, focused on utilizing the 'glove-wiki-gigaword-100' embedding model. However, this model presented challenges that led to its abandonment in favor of a more suitable alternative.
 
